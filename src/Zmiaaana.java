@@ -7,7 +7,7 @@
  *
  * @author lab702-03
  */
-public class NewClass {
+public class Zmiaaana {
     public static void main(String[] args) {
         System.out.println("Wyświetlam coś");
     }
